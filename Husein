@@ -1,1 +1,4 @@
 
+git add mein-beispiel.txt
+
+git commit -m "Neue Datei hinzugefügt"
